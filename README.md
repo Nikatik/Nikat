@@ -7,7 +7,7 @@ What do you want?
 May be smth like code?
 
 # Introdution
-Here it is university programs from first and second year of studing.
+Here it is university programs from first and second years of studing.
 
 # Making
 Unpack code, open terminal in this folger and use this comand:
