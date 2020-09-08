@@ -15,7 +15,7 @@ Unpack code, open terminal in this folger and use this comand:
  
  
 # AfterInfo
-When you are codding,you should use [Makefile](https://www.csestack.org/makefile-tutorial-explained-example-beginners/).
+When you are codding, you should use [Makefile](https://www.csestack.org/makefile-tutorial-explained-example-beginners/).
 
 Why?
 
