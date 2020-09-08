@@ -6,6 +6,8 @@ What do you want?
 
 May be smth like code?
 
+So you should go to other branch. 
+
 # Introdution
 Here it is university programs  for first and second years of studing.
 
