@@ -7,7 +7,7 @@ What do you want?
 May be smth like code?
 
 # Introdution
-Here it is university programs from first and second years of studing.
+Here it is university programs  for first and second years of studing.
 
 # Making
 Unpack code, open terminal in this folger and use this comand:
@@ -23,4 +23,4 @@ Because it's too easy for recompilating after some changes, very fast and simple
 
 Of couse, that's more beautiful too.
 
-It's realy simple, belive. 
+It's realy simple, believe. 
